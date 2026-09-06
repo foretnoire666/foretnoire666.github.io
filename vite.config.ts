@@ -20,6 +20,10 @@ const defineConfig = ({ mode }: { mode: string }): UserConfigExport => {
 }
 
 const defaultSetting: UserConfigExport = {
+  build: {
+    outDir: 'docs',
+    emptyOutDir: true,
+  },
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
