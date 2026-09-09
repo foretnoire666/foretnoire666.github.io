@@ -18,8 +18,8 @@ import LinkComponent from '../components/link/LinkComponent.vue'
     linkText="X(絵または小説のpixivリンクのみ投稿)"
   />
   <a href="https://sites.google.com/view/happy-busy/" class="banner"
-    ><img src="../../public/assets/jikanne-.png"
-  /></a>
+    ><img src="../assets/jikanne.png" />
+  </a>
 </template>
 <style scoped>
 a.banner {
