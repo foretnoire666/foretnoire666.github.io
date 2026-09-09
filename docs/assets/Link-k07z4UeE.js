@@ -1,1 +1,0 @@
-import{d as e,c as t,_ as n,o as s}from"./index-Bwj_5K7a.js";const c=e({__name:"Link",setup(a){return(o,r)=>(s(),t(n,{url:"https://www.pixiv.net/users/168822",linkText:"Pixiv"}))}});export{c as default};
